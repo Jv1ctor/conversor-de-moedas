@@ -28,6 +28,8 @@ O Conversor de Moedas utiliza a Exchange Rate API para obter as taxas de câmbio
 
 3. Na dashboard, você encontrará sua chave de acesso (API key).
 
-4. Coloque sua key no arquivo coinApi em keyApi:
+4. Coloque sua key no arquivo coinApi.ts em keyApi:
 
+```typescript
+const keyApi = [SUA KEY]
 
